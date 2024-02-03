@@ -20,7 +20,7 @@ cd server
 
 ```
 
-## Installieren Sie die erforderlichen Node.js-Abhängigkeiten:
+Installieren Sie die erforderlichen Node.js-Abhängigkeiten:
 
 ```bash
 
@@ -29,7 +29,7 @@ npm install
 ```
 
 ## 3. Installation der Client-Abhängigkeiten
-## Navigieren Sie in das Verzeichnis der Clientkomponente des Projekts:
+Navigieren Sie in das Verzeichnis der Clientkomponente des Projekts:
 
 ```bash
 
@@ -37,7 +37,7 @@ cd ../client
 
 ```
 
-## Installieren Sie die erforderlichen Node.js-Abhängigkeiten:
+Installieren Sie die erforderlichen Node.js-Abhängigkeiten:
 
 ```bash
 
@@ -46,13 +46,13 @@ npm install
 ```
 
 ## 4. Erstellung der Datenbank
-## Erstellen Sie eine Datenbank auf Ihrem lokalen PostgreSQL-Server.
+Erstellen Sie eine Datenbank auf Ihrem lokalen PostgreSQL-Server.
 
 ## 5. Konfiguration der Umgebungsvariablen
-## Bearbeiten Sie die Datei .env im Hauptverzeichnis des Projekts entsprechend Ihren Anforderungen und Ihrer PostgreSQL-Konfiguration.
+Bearbeiten Sie die Datei .env im Hauptverzeichnis des Projekts entsprechend Ihren Anforderungen und Ihrer PostgreSQL-Konfiguration.
 
 ## Starten des Servers
-## Öffnen Sie ein Terminal und navigieren Sie zum Serververzeichnis:
+Öffnen Sie ein Terminal und navigieren Sie zum Serververzeichnis:
 
 ```bash
 
@@ -60,7 +60,7 @@ cd ../server
 
 ```
 
-## Starten Sie den Server mit dem Befehl:
+Starten Sie den Server mit dem Befehl:
 
 ```bash
 
@@ -68,8 +68,8 @@ node index.js
 
 ```
 
-## Starten des Clients
-## Öffnen Sie ein Terminal und navigieren Sie zum Clientverzeichnis:
+Starten des Clients
+Öffnen Sie ein Terminal und navigieren Sie zum Clientverzeichnis:
 
 ```bash
 
@@ -77,7 +77,7 @@ cd ../client
 
 ```
 
-## Starten Sie den Client mit dem Befehl:
+Starten Sie den Client mit dem Befehl:
 
 ```bash
 
@@ -85,6 +85,5 @@ npm start
 
 ```
 
-## Das startet die React.js-Anwendung auf http://localhost:3000 und öffnet automatisch Ihren Standardwebbrowser, um die Benutzeroberfläche anzuzeigen.
-
-## Vielen Dank für die Verwendung unseres Projekts!
+Das startet die React.js-Anwendung auf http://localhost:3000 und öffnet automatisch Ihren Standardwebbrowser, um die Benutzeroberfläche anzuzeigen.
+Vielen Dank für die Verwendung unseres Projekts!
