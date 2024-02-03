@@ -55,16 +55,10 @@ node index.js
 
 ## Starten des Clients
 Öffnen Sie ein Terminal und navigieren Sie zum Clientverzeichnis:
-
 ```bash
 cd ../client
-```
-
-Starten Sie den Client mit dem Befehl:
-
-```bash
+# Starten Sie den Client mit dem Befehl:
 npm start
 ```
-
 Das startet die React.js-Anwendung auf http://localhost:3000 und öffnet automatisch Ihren Standardwebbrowser, um die Benutzeroberfläche anzuzeigen.
 Vielen Dank für die Verwendung unseres Projekts!
