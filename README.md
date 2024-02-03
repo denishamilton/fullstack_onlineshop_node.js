@@ -12,7 +12,7 @@ git clone <URL_des_Repositories>
 
 ```
 ## 2. Installation der Server-Abhängigkeiten
-## Navigieren Sie in das Verzeichnis der Serverkomponente des Projekts:
+Navigieren Sie in das Verzeichnis der Serverkomponente des Projekts:
 
 ```bash
 
